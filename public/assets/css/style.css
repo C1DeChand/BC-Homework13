@@ -1,13 +1,3 @@
-li {
-  padding: 5px;
-  margin: 5px;
-  background: #faebd7;
-}
-
-.label {
-  font-weight: bold;
-}
-
 .create-update-form {
   padding: 5px;
   margin: 5px;
@@ -16,4 +6,8 @@ li {
 
 .form-group {
   margin-bottom: 5px;
+}
+
+.card-title {
+  color: white;
 }
